@@ -2,5 +2,5 @@
 
 ## About
 
-Repository containing solutions to basic problems<br />
+This folder contains solutions to basic problems<br />
 
