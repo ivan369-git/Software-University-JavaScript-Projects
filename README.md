@@ -2,8 +2,8 @@
 
 ## About
 
-Repository containing solutions to problems<br />
+Repository containing solutions to problems.<br />
 
 ## Folders
 
- **Basics** | Contains solutions to basic javascript problems
+ **Basics** | Contains solutions to basic problems.
