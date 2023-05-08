@@ -4,7 +4,7 @@
 
 This folder contains solutions to basic problems<br/>
 
-### File description
+### File description:
 
 **divisableByThree.js** | JavaScript function which prints out all numbers divisible by 3 in the range from 1 to 100.<br/>
 
