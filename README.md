@@ -1,9 +1,9 @@
 # Software University JavaScript Projects
 
-# About
+## About
 
 Repository containing solutions to problems<br />
 
-# Folders
+## Folders
 
-Basics | Contains solutions to basic javascript problems
+_Basics_ | Contains solutions to basic javascript problems
