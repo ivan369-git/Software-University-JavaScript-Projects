@@ -10,7 +10,9 @@ This folder contains solutions to basic problems<br/>
 
 **gladiatorExpenses.js** | This is a JS program which calculates gladiator expenses for helmets, armor, etc., when they break.<br/>
 
-**basketball.js** | A program which calculates the total cost of basketball equipment.
+**basketball.js** | A program which calculates the total cost of basketball equipment.<br/>
+
+**petFood.js** | A function which calculates the total cost of pet food.<br/>
 
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
 
