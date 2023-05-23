@@ -8,6 +8,8 @@ This folder contains solutions to basic problems<br/>
 
 **divisableByThree.js** | JavaScript function which prints out all numbers divisible by 3 in the range from 1 to 100.<br/>
 
+**Concatenate-Data.js** | This is a function demonstrating template literals and interpolation.<br/>
+
 **gladiatorExpenses.js** | This is a JS program which calculates gladiator expenses for helmets, armor, etc., when they break.<br/>
 
 **basketball.js** | A program which calculates the total cost of basketball equipment.<br/>
