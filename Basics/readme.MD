@@ -14,6 +14,8 @@ This folder contains solutions to basic problems<br/>
 
 **basketball.js** | A program which calculates the total cost of basketball equipment.<br/>
 
+**foodDelivery.js** | A JS program for calculating food order price including delivery.<br/>
+
 **petFood.js** | A function which calculates the total cost of pet food.<br/>
 
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
