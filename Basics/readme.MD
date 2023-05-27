@@ -12,6 +12,8 @@ This folder contains solutions to basic problems<br/>
 
 **gladiatorExpenses.js** | This is a JS program which calculates gladiator expenses for helmets, armor, etc., when they break.<br/>
 
+**radiansToDegrees.js** | A program for converting radians to degrees.<br/>
+
 **basketball.js** | A program which calculates the total cost of basketball equipment.<br/>
 
 **foodDelivery.js** | A JS program for calculating food order price including delivery.<br/>
