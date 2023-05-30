@@ -20,6 +20,8 @@ This folder contains solutions to basic problems<br/>
 
 **greening.js** | A program for calculating the cost of greening an area, including discount.<br/>
 
+**inchToCm.js** | A JS program for converting inches to centimeters.<br/>
+
 **petFood.js** | A function which calculates the total cost of pet food.<br/>
 
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
