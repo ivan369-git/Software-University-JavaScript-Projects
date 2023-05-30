@@ -18,6 +18,8 @@ This folder contains solutions to basic problems<br/>
 
 **foodDelivery.js** | A JS program for calculating food order price including delivery.<br/>
 
+**greening.js** | A program for calculating the cost of greening an area, including discount.<br/>
+
 **petFood.js** | A function which calculates the total cost of pet food.<br/>
 
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
