@@ -30,4 +30,4 @@ This folder contains solutions to basic problems<br/>
 
 **hello.js** | A simple function which logs a message to the console.<br/>
 
-**Interest rate** | A JS function for calculating the interest rate on a deposit.<br/>
+**interestRate.js* | A JS function for calculating the interest rate on a deposit.<br/>
