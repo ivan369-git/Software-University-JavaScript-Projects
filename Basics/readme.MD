@@ -24,6 +24,8 @@ This folder contains solutions to basic problems<br/>
 
 **petFood.js** | A function which calculates the total cost of pet food.<br/>
 
+**projectCompletion.js** | A program which calculates the total needed time for the completion of given number of projects.<br/>
+
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
 
 **login.js** | This is a JavaScript program that checks checks if password is correct and returns a message to the user in case of successful or unsuccessful login attempt. It also returns a message that the user is blocked if they have attempted to login with wrong password   too many times.<br/>
