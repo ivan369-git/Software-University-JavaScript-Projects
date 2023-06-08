@@ -24,6 +24,8 @@ This folder contains solutions to basic problems<br/>
 
 **petFood.js** | A function which calculates the total cost of pet food.<br/>
 
+**vacationBook.js** | George needs to read a certain number of books during his summer vacation. This program calculates how many hours per day he needs to read in order to complete a book.<br/>
+
 **projectCompletion.js** | A program which calculates the total needed time for the completion of given number of projects.<br/>
 
 **fishTank.js** | A simple program which calculates the volume left in a fish tank.<br/>
